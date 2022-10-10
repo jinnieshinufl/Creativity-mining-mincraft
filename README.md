@@ -1,4 +1,4 @@
-# Creativity-mining-mincraft
+# Creativity-mining-minecraft
 Toward Defining and Assessing Creativity in Sandbox Games 
 
 ## Get Started
