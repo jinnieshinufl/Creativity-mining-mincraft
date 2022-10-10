@@ -14,7 +14,7 @@ pandas == 1.2.2
 You can find the two main folders ```main``` and ```data```
 
 ``data``: This includes *example.txt* which provides the example data structure (corpus) in order to run the model.  
-- ```main.py```: Includes the main model for training.   
+- ```vectorization.py```: Includes the main model for training.   
 - ```pre_processing.py```: Data preprocessing and cleaning (1)
 
 ```
