@@ -8,7 +8,6 @@ This code is prepared in python 3. A few python packages are required in order t
 numpy == 1.19.5
 nltk == 3.7.0
 sklearn == 1.0.2
-vaderSentiment == 3.3.2
 pandas == 1.2.2
 ```
 ### Components 
